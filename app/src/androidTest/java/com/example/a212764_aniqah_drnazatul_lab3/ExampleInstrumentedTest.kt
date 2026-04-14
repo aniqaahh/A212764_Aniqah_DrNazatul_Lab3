@@ -1,4 +1,4 @@
-package com.example.a212764_aniqah_drnazatul_lab2
+package com.example.a212764_aniqah_drnazatul_lab3
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

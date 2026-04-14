@@ -1,4 +1,4 @@
-package com.example.a212764_aniqah_drnazatul_lab2
+package com.example.a212764_aniqah_drnazatul_lab3
 
 import org.junit.Test
 

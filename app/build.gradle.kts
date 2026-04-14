@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.a212764_aniqah_drnazatul_lab2"
+    namespace = "com.example.a212764_aniqah_drnazatul_lab3"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
